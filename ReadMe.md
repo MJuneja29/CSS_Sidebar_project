@@ -2,7 +2,7 @@
 
 A clean and responsive sidebar navigation menu built using HTML and CSS. The sidebar features a **hamburger menu toggle implemented with a hidden checkbox input**, and uses Font Awesome icons for a modern appearance.
 
-[![Watch the video](assets\sidebar_menu_working.png)](assets\Sidebar_menu.mp4)
+[![Watch the video](assets/sidebar_menu_working.png)](assets/Sidebar_menu.mp4)
 
 ## Features
 
