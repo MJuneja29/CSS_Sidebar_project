@@ -6,7 +6,7 @@
 }
 
 .main_box {
-    background: url("camera_photo.jpg");
+    background: url("assets\camera_photo.jpg");
     height: 100vh;
     background-size: cover;
 }
